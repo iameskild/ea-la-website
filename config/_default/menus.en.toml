@@ -1,0 +1,11 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/iameskild/ea-la-website"
+  weight = 30
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+

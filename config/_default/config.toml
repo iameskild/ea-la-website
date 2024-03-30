@@ -1,0 +1,12 @@
+baseURL = "https://your_domain.com/"
+languageCode = "en"
+
+title = "Effective Altruism Los Angeles"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+paginate = 15
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
