@@ -1,6 +1,17 @@
 # config/_default/menus.en.toml
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+
+[[main]]
+  name = "Calendar"
+  pageRef = "calendar"
+  weight = 20
+
+[[main]]
   name = "GitHub"
   url = "https://github.com/iameskild/ea-la-website"
   weight = 30
