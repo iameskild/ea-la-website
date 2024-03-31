@@ -5,4 +5,5 @@ hugo.exe
 hugo.linux
 hugo.darwin
 
+.vscode/
 .DS_Store
