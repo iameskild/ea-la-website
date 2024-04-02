@@ -1,7 +1,8 @@
 # ea-la-website
 
-Effective Altruism Los Angeles website.
-
+Effective Altruism Los Angeles website: [https://effectivealtruismla.org
+](https://effectivealtruismla.org
+)
 ## Development
 
 If you're interested in contributing to the website, please follow the instructions below to get started.
